@@ -77264,7 +77264,7 @@ return A.t5(A.rr(A.b([A.dZ("Tarek",s,s,A.alF(B.i,40*$.cl().gjj()),s),new A.bE(B.
 $S:21}
 A.aj_.prototype={
 $3(a,b,c){var s=null
-return A.t5(A.dZ("I am Flutter and Node js developer",s,s,A.Vv(s,s,B.i,s,s,s,s,"Abel",s,30*$.cl().gjj(),s,s,A.aA([B.d3,new A.jR("fbef0740397e2ca38a05f204f7129be38b2ab6bb3994a69e14d3a245e489aece",32648)],t.gm,t.Ks),s,s,s,s,s,s,s,s),s),new A.j(this.a.a*b,0))},
+return A.t5(A.dZ("I am a Software Developer.",s,s,A.Vv(s,s,B.i,s,s,s,s,"Abel",s,30*$.cl().gjj(),s,s,A.aA([B.d3,new A.jR("fbef0740397e2ca38a05f204f7129be38b2ab6bb3994a69e14d3a245e489aece",32648)],t.gm,t.Ks),s,s,s,s,s,s,s,s),s),new A.j(this.a.a*b,0))},
 $S:21}
 A.aj0.prototype={
 $0(){var s=0,r=A.Q(t.H)
