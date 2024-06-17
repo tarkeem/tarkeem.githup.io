@@ -1,6 +1,6 @@
 {
-    "name": "my_prtofilio",
-    "short_name": "my_prtofilio",
+    "name": "furniture_store",
+    "short_name": "furniture_store",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
