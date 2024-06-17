@@ -77969,7 +77969,7 @@ K(a){document.title="Tarek Dev"
 return new A.y6(new A.a2u(),!0,!0,B.JW,null)}}
 A.a2u.prototype={
 $2(a,b){var s=null
-return new A.nx(new A.CT(s),"Flutter Demo",A.apS(s,B.hK,s),!1,s)},
+return new A.nx(new A.CT(s),"Tarek Dev",A.apS(s,B.hK,s),!1,s)},
 $S:454}
 A.CT.prototype={
 ac(){var s=$.aK()
